@@ -28,7 +28,7 @@ As i am in 4th year of my B.Tech in EEE, I have to apply for internships and job
 
 # Primary Azure Technologies used:
 
-static webapps ,statis webapps,azure database for MySQL
+static webapps ,paas,azure database for MySQL
 
 # Other Azure Technologies:
 
