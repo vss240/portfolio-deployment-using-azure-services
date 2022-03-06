@@ -2,7 +2,17 @@
 
 
 
+# Project Link - 
+
+# Demo Video - 
+
+
 # project title:
+
+
+
+✨ Personal Portfolio ✨
+
 
 my personal portfolio with bot services
 
