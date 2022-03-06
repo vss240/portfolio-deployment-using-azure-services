@@ -12,6 +12,18 @@
 
 
 ✨ Personal Portfolio ✨
+PORTFOLIO START
+![portfolio 1](https://user-images.githubusercontent.com/100853056/156928700-80582a3a-8f0a-4aca-a419-2610318c897b.png)
+
+PORTFOLIO SKILLS
+![portfolio skills](https://user-images.githubusercontent.com/100853056/156928704-a6c7c391-e9df-48f6-8ef0-bc98a74d5b75.png)
+
+PORTFOLIO PROJECTS
+
+![prtfoloio projects](https://user-images.githubusercontent.com/100853056/156928706-2e81670d-5d05-4032-aa20-f037837a6f27.png)
+PORTFOLIO SOCIALS
+
+![socials and mail](https://user-images.githubusercontent.com/100853056/156928708-51249fc2-6b78-40c9-959d-0f2982425203.png)
 
 
 my personal portfolio with bot services
