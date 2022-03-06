@@ -2,7 +2,7 @@
 
 
 
-# Project Link - 
+# Project deployed Link - https://shashankvadige-portfolio.azurewebsites.net/
 
 # Demo Video - 
 
@@ -28,10 +28,10 @@ As i am in 4th year of my B.Tech in EEE, I have to apply for internships and job
 
 # Primary Azure Technologies used:
 
-static webapps ,paas,azure database for MySQL
+static webapps ,paas,azure resource group using php 8.0
 
 # Other Azure Technologies:
 
-paas which is platform as a service ,azure bot services ,html,css,js,php,visual studio code(ide),qna maker
+paas which is platform as a service ,azure bot services ,html,css,js,php,visual studio code(ide),qna maker,resources group,git also
 
 
