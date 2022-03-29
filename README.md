@@ -42,7 +42,7 @@ As i am in 4th year of my B.Tech in EEE, I have to apply for internships and job
 
 static webapps ,paas,azure resource group using php 8.0
 
-# Other Azure Technologies:
+# Other Azure Services and  Technologies:
 
 paas which is platform as a service ,azure bot services ,html,css,js,php,visual studio code(ide),qna maker,resources group,git also
 
